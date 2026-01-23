@@ -420,6 +420,10 @@
     [
       "4667f2d9-00a1-44c2-8853-9bd250495378",
       "GPS"
+    ],
+    [
+      "64651205-3985-448f-af93-5dba4a5c5c0c",
+      "Buck Converter"
     ]
   ],
   "text_variables": {}
